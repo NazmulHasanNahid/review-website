@@ -10,8 +10,9 @@ const Home = () => {
     return (
         <Container >
             <div className="Home-style">
-                <h1  className="orange-color">Learn online From the Leaders in Business Education</h1>
-                <p className="custom-color">Expand your business skills and engage with a global network of learners through our flexible, online courses. Wherever you are in your career—or the world—Harvard Business School Online can help you achieve your goals.</p>
+                <h1  className="orange-color">Creative It Institute</h1>
+                <p className="custom-color mb-5">Hey Youth People We are working For grow your skill we provide lot of Valuable online courses  we Have programming and Designing Courses  <br />
+                    And we Provide all Course in Reasonable Price tag</p>
                 <img  width="400px" src="https://www.seoclerk.com/pics/000/797/739/e14c4fe13fe14cd522844457a7ef0ce2.jpg" alt="" />
 
                 <h2 className="Service-style">Our Running Sevices</h2>
