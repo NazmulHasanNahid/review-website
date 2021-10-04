@@ -1,0 +1,21 @@
+.Home-style{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.orange-color{
+    color: orange;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.custom-color{
+   color: slategray;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.Service-style{
+    color: orange;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+

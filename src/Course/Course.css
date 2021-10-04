@@ -1,0 +1,22 @@
+
+.custom-btn{
+  border: 0;
+  background-image: linear-gradient(orange , salmon);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700;
+    
+}
+
+.img{
+    height: 200px;
+    width: 100%;
+}
+
+.custom-bg{
+    text-align: center;
+    background-color: #232946 !important; ;
+    color: white !important;
+    
+}
